@@ -1,24 +1,14 @@
-# README
+# RAILS --API 
+<img src="https://media.istockphoto.com/vectors/set-of-monsters-isolated-on-white-background-vector-id921660984?k=6&m=921660984&s=612x612&w=0&h=CJFuEv0ySFbNifX2uOOQ4QWGaK0o01lWbDhq06JajIM=" align="right"
+     alt="ruby on rails" width="250">
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+What was practiced:
 
-* Ruby version
+* Creating our Models, Views and Controllers
 
-* System dependencies
+* Linking those 3 up
 
-* Configuration
+* Routes to support CRUD functionalities
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Dynamic links to ease navigation
