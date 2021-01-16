@@ -5,3 +5,12 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+15.times do 
+    Monster.create({
+        name: Faker::Games::WarhammerFantasy.hero,
+        tribe: Faker::Games::WarhammerFantasy.faction,
+        quote: Faker::Games::WarhammerFantasy.quote
+    })
+end
