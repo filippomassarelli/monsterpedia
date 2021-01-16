@@ -7,8 +7,10 @@ What was practiced:
 
 * Creating our Models, Views and Controllers
 
-* Linking those 3 up
+* Seeding the database with dummy data using the Faker gem
 
-* Routes to support CRUD functionalities
+* Setting up the API controllers in a versioned folder structure for ease of future iterations
 
-* Dynamic links to ease navigation
+* Ensure all CRUD operations are covered by their route + controller functions for full RESTful functionalities
+
+* Practice fixing bugs with GET, POST, PUT and DELETE requests using Postman
